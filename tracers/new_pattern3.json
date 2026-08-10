@@ -1,0 +1,13 @@
+{
+    "name": "new_pattern3",
+    "preview": "rbxassetid://1274380363",
+    "texture": "rbxassetid://1274380363",
+    "width0": 0.25,
+    "width1": 0.55,
+    "curveSize0": 0,
+    "curveSize1": 0,
+    "textureMode": "Stretch",
+    "lightInfluence": 5,
+    "lightEmission": 5,
+    "faceCamera": true
+}

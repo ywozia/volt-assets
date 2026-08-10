@@ -1,0 +1,13 @@
+{
+    "name": "new_pixels_COLORED1",
+    "preview": "rbxassetid://102929992237253",
+    "texture": "rbxassetid://102929992237253",
+    "width0": 0.25,
+    "width1": 0.55,
+    "curveSize0": 0,
+    "curveSize1": 0,
+    "textureMode": "Stretch",
+    "lightInfluence": 5,
+    "lightEmission": 5,
+    "faceCamera": true
+}
