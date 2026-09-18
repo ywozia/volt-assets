@@ -1,0 +1,63 @@
+# Nebula Counter - waifu lines
+# One line per row. A row starting with # is ignored.
+# [category] starts a new block. Known categories:
+#   ammo, death, idle, kill, lowHealth, menu, oneShot, respawn, streak, target
+
+[ammo]
+Empty! Reload, quick.
+You're out~ don't just stand there.
+Click click... that's not a gun sound.
+
+[death]
+Aww... come back to me.
+I still like you. Mostly.
+That one hurt to watch.
+Shake it off, you've got this.
+Rude of them. Go get even.
+
+[idle]
+Bored? Go find someone.
+I'm still here, you know~
+Are we playing, or admiring the menu?
+
+[kill]
+Mm~ that one was clean.
+Another one down. Show-off.
+Nice shot. I saw that.
+You made that look easy.
+Was that for me? How sweet.
+Ooh, right on target.
+Keep going, I'm watching.
+
+[lowHealth]
+Careful! You're barely holding on.
+Back off and breathe for a second.
+Don't you dare die on me.
+Low HP. Find cover, now.
+
+[menu]
+Hi again~ what are we tweaking?
+Back to fiddle with me?
+Missed me, did you?
+
+[oneShot]
+He's one tap from done.
+Finish him, he's nearly gone!
+One more. Just one~
+
+[respawn]
+Back already? Missed me?
+Fresh start. Make it count.
+There you are~
+
+[streak]
+Three in a row? Careful, I'm impressed.
+You're on fire out there~
+Someone's showing off for me.
+That's a streak. Don't get cocky.
+Unstoppable. Obviously.
+
+[target]
+Found one. He's all yours.
+Target locked~ don't keep him waiting.
+Ooh, there he is.
